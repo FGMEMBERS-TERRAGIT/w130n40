@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -123.920972 45.466222 265.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -123.8725 45.456667 -151.86 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -123.838 45.483389 -115.02 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -123.804 45.423694 -162.7 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -123.824338 45.499827 39.86 281.52
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -123.793175 45.377347 65.21 249.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -123.792931 45.377804 61.27 249.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -123.789648 45.383934 46.41 249.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -123.789368 45.384458 47.75 249.43
+OBJECT_STATIC Tillamook-Air-Museum.xml -123.8067 45.4204 12.07 45
