@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/tacan.xml -124.894444 49.7125 19.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -124.98 49.715556 -12.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -124.976389 49.683889 -143.78 180
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -124.886635 49.717626 -6.37 0

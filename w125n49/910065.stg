@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Airport/ndb.ac -124.501389 49.836667 120.01 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -124.563611 49.873056 -78.08 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m_black.ac -124.557333 49.873089 -30 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m_black.ac -124.556877 49.873808 -65 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -124.557163 49.874656 -80 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m_black.ac -124.55698 49.874822 -80 0
