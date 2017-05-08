@@ -26,3 +26,17 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.748536 45.466384 90.51 147.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.748422 45.466334 90.39 147.96
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.748208 45.46624 90.17 142.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.747912 45.466048 89.98 137.23
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43084 1.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.65005 45.43086 1.00 9.11
+OBJECT_SHARED Models/lib/1car-stop.ac -122.64986 45.43095 1.00 103.04
+OBJECT_SHARED Models/lib/1car-stop.ac -122.64980 45.43074 1.00 103.04
+OBJECT_SHARED Models/lib/lamp10m.xml -122.65003 45.43081 1.00 281.35
+OBJECT_SHARED Models/lib/garden-shed.ac -122.65002 45.43086 1.00 100.2
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -122.64991 45.43088 1.00 7.20999
+OBJECT_SHARED Models/Misc/picnic_table.ac -122.65001 45.43077 1.00 280.47
+# END dsf2stg

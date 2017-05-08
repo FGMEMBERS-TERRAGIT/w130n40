@@ -87,3 +87,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.005963 47.609472 138.85 82.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.005364 47.612698 120.62 82.87
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.004698 47.616288 104.48 82.87
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.001958 47.568048 142.55 119.03
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -122.21814 47.50020 5.73 94.05
+# END dsf2stg

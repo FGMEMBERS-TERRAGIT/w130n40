@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -124.782222 49.277778 -92.02 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -124.8125 49.250833 1.92 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -124.93222 49.32036 81.41 44.0465
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -124.92690 49.31763 80.78 224.071
+OBJECT_SHARED Models/lib/MedHangar.ac -124.93246 49.32118 80.84 314.999
+# END dsf2stg

@@ -8,3 +8,12 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.665833 47.111389 -39
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.566944 47.088611 -353.36 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.566111 47.081111 -351.42 180
 OBJECT_SHARED Models/Airport/localizer.xml -122.577233 47.068689 94.99 257.09
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -122.58744 47.08098 90.79 241
+OBJECT_SHARED Models/lib/office40x25.ac -122.58461 47.07976 91.77 103.21
+OBJECT_SHARED Models/lib/office32x25.ac -122.58440 47.07935 92.21 13.3
+OBJECT_SHARED Models/lib/LgMaint.ac -122.58961 47.08404 88.38 148.46
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -122.57722 47.08151 94.50 103.07
+# END dsf2stg
