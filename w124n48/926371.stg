@@ -4,6 +4,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -123.147972 48.61375 -116.5
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.0335 48.515639 -145.6 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.019111 48.535111 -156.61 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.017944 48.535111 -158.78 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -123.2370249 48.5476865 -5.3 0
 OBJECT_STATIC KFHR_Hangar1.ac -123.025317 48.529894 38.59 94
 OBJECT_STATIC KFHR_Hangar2.ac -123.025811 48.529875 39.39 94
 OBJECT_STATIC KFHR_Hangar3.ac -123.026286 48.529853 40.15 94

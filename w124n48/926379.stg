@@ -10,3 +10,4 @@ OBJECT_SHARED Models/lib/cone.ac -123.01612 48.70822 41.85 253.22
 OBJECT_SHARED Models/lib/cone.ac -123.01999 48.71394 41.91 252.23
 OBJECT_SHARED Models/lib/cone.ac -123.01948 48.71409 42.44 248.48
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -123.2374599 48.6887969 -2.42 0
