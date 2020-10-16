@@ -26,3 +26,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -121.308912 41.906116 1327.59 97
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -121.307108 41.900511 1342.08 96.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -121.30707 41.891786 1363.96 92
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -121.306033 41.88021 1328.81 94.43
+OBJECT_SHARED Models/Aircraft/Cessna150.xml -121.3958 41.99839 1234.04 150
+OBJECT_SHARED Models/Airport/hanger-60fx36f-light-blue-01.xml -121.396137 41.998265 1234.06 100
