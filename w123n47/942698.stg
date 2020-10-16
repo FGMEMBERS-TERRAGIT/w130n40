@@ -16,11 +16,14 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -122.299139 47.712111 -128.
 OBJECT_SHARED Models/Communications/radio-medium.xml -122.297083 47.718722 -112.98 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -122.290278 47.689444 -93.75 180
 OBJECT_SHARED Models/Airport/marker.ac -122.38949 47.632487 31.92 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -122.32 47.662778 -367.94 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.314444 47.628889 -344.31 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.308056 47.650278 -432.72 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -122.303333 47.653333 -424.18 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -122.322778 47.653056 3.34 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -122.360556 47.6525 4.41 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -122.353889 47.649167 2.99 180
-OBJECT_STATIC UWBuilding.ac -122.314868 47.6600557 49.6 55
+OBJECT_SHARED Models/Residential/grdimmeuble.xml -122.32034 47.662425 60.91 0
+OBJECT_SHARED Models/Residential/immeuble2.xml -122.32 47.662778 -367.94 180
+OBJECT_SHARED Models/Commercial/Retail90x50.ac -122.3138 47.664434 69.05 0
+OBJECT_SHARED Models/Commercial/small-glass-office-building.ac -122.316287 47.661525 53.96 270
+OBJECT_STATIC UWBuilding.ac -122.314868 47.6600557 49.6 0
