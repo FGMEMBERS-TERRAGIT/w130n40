@@ -1,3 +1,15 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.899389 46.646694 -32.68 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.772778 46.671111 -149.67 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -123.772778 46.695833 224.48 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -123.82154 46.69767 0.00 315.84
+OBJECT_SHARED Models/lib/lamp10m.xml -123.82174 46.69838 3.11 136.08
+OBJECT_SHARED Models/lib/lamp10m.xml -123.82192 46.69825 3.22 313.34
+OBJECT_SHARED Models/lib/garages22x9.ac -123.82212 46.69846 3.21 222.74
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.82165 46.69814 3.23 135.51
+OBJECT_SHARED Models/lib/garage-small-white.ac -123.82241 46.69868 3.17 315.65
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -123.82146 46.69802 3.14 315.76
+OBJECT_SHARED Models/lib/cars10.ac -123.82176 46.69817 3.12 135.54
+# END dsf2stg

@@ -4,3 +4,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.491158 43.752476 446.85 209
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.490177 43.752877 441.22 185.63
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.486164 43.751922 373.82 161.76
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.48503 43.751652 365.61 161.76
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac -122.49869 43.75221 0.00 165.18
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -122.49910 43.75220 419.84 256.5
+OBJECT_SHARED Models/Transport/hatchback_black.ac -122.49835 43.75212 419.84 340.46
+OBJECT_SHARED Models/lib/industrial13x24.ac -122.49726 43.75247 419.38 256.15
+# END dsf2stg

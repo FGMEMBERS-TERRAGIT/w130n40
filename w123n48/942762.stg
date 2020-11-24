@@ -75,3 +75,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.267882 48.706742 764.19 306
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.264361 48.705289 768.3 327.98
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.258821 48.703002 783.92 327.98
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.25359 48.700843 823.74 327.98
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -122.33624 48.72771 0.00 124.7
+OBJECT_SHARED Models/lib/shed8x10.ac -122.33604 48.72757 98.38 79.73
+OBJECT_SHARED Models/lib/SmHangar.ac -122.33608 48.72778 99.74 249.26
+OBJECT_SHARED Models/lib/SmHangar.ac -122.33667 48.72785 97.01 65.86
+OBJECT_SHARED Models/Trees/billboard-tree.xml -122.33667 48.72808 96.06 200.56
+# END dsf2stg

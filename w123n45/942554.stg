@@ -86,3 +86,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.251199 45.428335 181.2 170.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.251197 45.376211 342.53 182.18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.251197 45.377083 340.53 1.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -122.251001 45.43678 127.33 216.38
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.25082 45.42920 189.92 90
+OBJECT_SHARED Models/lib/garage-small-white.ac -122.25052 45.42924 179.97 294.44
+OBJECT_SHARED Models/lib/farm19x12.ac -122.25080 45.42915 189.16 88.84
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.25006 45.43029 172.85 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -122.25006 45.43022 184.42 0
+# END dsf2stg

@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -120.587583 40.319917 1285.99 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -120.578889 40.370833 1074.31 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -120.57806 40.37388 1264.00 199.63
+# END dsf2stg
